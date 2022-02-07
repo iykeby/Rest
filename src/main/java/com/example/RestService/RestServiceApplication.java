@@ -10,7 +10,7 @@ public class RestServiceApplication {
 		SpringApplication.run(RestServiceApplication.class, args);
 
 
-		System.out.println("Server has started @ port 8080. lunch browser to see............................... ");
+		System.out.println("Server has started @ port 8080. lunch browser to see................................... ");
 
 	}
 
